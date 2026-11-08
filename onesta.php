@@ -2,7 +2,7 @@
 /**
  * Plugin Name: ONEsta — ONEstar Theme Companion
  * Plugin URI: https://one-sta.jp
- * Description: Distribution metadata only. Install the verified onesta.zip release asset.
+ * Description: ONEstar テーマ用コンパニオンプラグイン。カスタムブロック・サイト設定・表示最適化を提供します。
  * Version: 2.18.0
  * Author: ONEsta LLC
  * Requires PHP: 8.3
